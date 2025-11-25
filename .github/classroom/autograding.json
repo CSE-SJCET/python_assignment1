@@ -1,0 +1,13 @@
+{
+  "tests": [
+    {
+      "name": "Check output for Hello Python!",
+      "setup": "",
+      "run": "python3 main.py",
+      "input": "",
+      "output": "Hello Python!\n",
+      "comparison": "exact",
+      "timeout": 10
+    }
+  ]
+}
